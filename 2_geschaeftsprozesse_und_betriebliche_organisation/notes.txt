@@ -1,0 +1,192 @@
+Lernfeld 2 - Frau Luda - Geschäftsprozesse und betriebliche Organisation
+
+Leistung: Übersetzen Englisch->Deutsch
+Krankenschein per Foto an Luda
+Antrag auf Befreiung vom Unterricht im Fall von Dögel Stress
+Antrag auf Nachschreiben eines Leistungsnachweises, passiert immer Di. 9./10. h
+
+Download Materialien emu Cloud siehe Zettel
+
+# Geschäftsprozesse und betriebliche Organisation
+
+Die Firma
+	- ist der Name eines Kaufmanns, unter dem er
+		- seine Geschäfte betreibt
+		- seine Unterschrift abgibt
+		- klagen und verklagt werden kann
+	- Arten
+		- Fantasiefirma (Apple, IKEA etc.)
+		- Personenfirma (Rossmann, Dell etc.)
+		- Sachfirma (Coca Cola, Commerzbank etc.)
+		- Aufbau
+			- Firmenkern
+			- Firmenzusatz
+			- Rechtsform (e.K., OHG, KG, GmbH)
+	- Grundsätze
+		- Firmenausschließlichkeit (=Firma muss sich von anderen namentlich unterscheiden)
+		- Firmenwahrheit (=keine irreführenden Angaben, Name beschreibt Tätigkeit)
+		- Firmenöffentlichkeit (=Registrierung im Handelsregister)
+		- Firmenbeständigkeit (=Fortführung bei Heirat, Kauf etc.
+	- Schutz
+		- Wer unrechtmäßig eine Firma benutzt, kann verklagt werden, die Firma
+		  wird durch das Gesetz geschützt
+		- HGB - Markenrecht
+		- BGB - Namensrecht
+		- Wettbewerbsrecht
+
+Bestandteile Businessplan (wird kontinuierlich weiterentwickelt und angepasst)
+	- Kosten, Umsatzzahlen
+	- Zielgruppe
+	- Marktgröße
+	- Gründungsidee
+	- Unternehmensziele / Prognose -> Umsatz, Märkte
+	- Investoren, Vertragspartner, Finanzierung
+	- Gründer
+	- Weiterentwicklung
+	- Stärken / Schwächen
+
+Unternehmensgründung
+
+Arbeitsblatt Unternehmensgründung
+
+Dreisatz
+	92000 = 100%
+	 7350 = x
+==> 7350 * 100 / 92000 = x
+
+Unternehmen
+	- öffentlich-rechtlich
+	- privatrechtlich
+		- gemeinwirtschaftlich
+		- erwerbswirtschaftlich
+			- Einzelunternehmen -> e.K.
+			- Gesellschaften
+				- Personengesellschaften -> OHG, KG
+				- Kapitalgesellschaften -> GmbH, AG
+
+
+Selbstständigkeit
+	- persönliche Freiheit -> eigene Arbeitszeit festlegen
+	- gute Marktchancen -> hohes Einkommen
+	- Marktlücke bedienen
+	- Kontrolle über Einkommen und eigenes Handeln
+	- eigene Kreativität
+	- Chance auf Neubeginn nach Arbeitslosigkeit
+	- eigene Idee umsetzen
+
+Drei Möglichkeiten
+	- Freiberufler
+	- Gewerbetreibender
+	- Freier Mitarbeiter
+
+Gründungsarten
+	- Neugründungen = ein Unternehmen entsteht; Kunden und Märkte müssen noch
+	  erobert werden
+	- Einzelgründung = eine einzelne natürliche Person gründet ein Unternehmen
+	- Teamgründung = min. zwei natürliche Personen gründen ein Unternehmen
+	- Unternehmensnachfolge = personeller Wechsel der Geschäftsführung sowie
+	  Übertrag des Eigentums (Gründe: Alter, Tod, wirtschaftliche Krisen)
+	  -> Management-Buy-Out = Geschäftsführung kauft Unternehmen auf
+	  -> Employee-Buy-Out = Angestellte kaufen Unternehmen auf
+	- Ausgründung = Ausgliederung und Verselbstständigung eines Betriebsteils,
+	  der nicht zum aktuellen Kerngeschäft der Mutterunternehmung zählt
+	  -> Spin-Off = einvernehmliche Trennung
+	  -> Split-Off = Trennung gegen den Willen des Mutterunternehmens
+	- Franchising = Lizenzvergabe oder Nutzungsrechtverleihung -> ein bereits
+	  bestehendes Unternehmen vergibt seine Geschäftsidee, die bereits
+	  detailliert ausgearbeitet, getestst und etwickelt wurde, gegen eine Gebühr
+	  (Franchise-Vertrag zw. F-Geber und F-Nehmer)
+	- Freiberufler = selbstständig ausgeübter wissenschaftlicher,
+	  künstlerischer, schriftstellerischer, unterrichtender oder erzieherischer
+	  Beruf => handelt im Auftrag von Leuten (im Gegensatz zum Gewerbe, das auch
+	  einfach Produkte/Dienste für die breite Masse anbieten kann)
+	- Selnstständiger Handelsvertreter = Gewerbetreibender, der damit beauftragt
+	  ist, für einen anderen oder mehrere andere Unternehmen Geschäfte zu
+	  vermitteln und in dessen Auftrag abzuschließen
+
+Unternehmensziele
+	- Ziel = Zustand, der in der Zukunft angestrebt wird
+	  (Zwischenziele->Endziel)
+		- treiben an
+		- geben Orientierung
+		- sind unbegrenzt, ein neues ersetzt das letzte, "lebenslanges Lernen"
+		- gehen mit der Zeit (Bedürfnisse), sind innovativ
+	- Sachziel = Leistungsziel, bestimmte Güter oder Dienste am Markt
+	  bereitzustellen -> "Was will ich verkaufen?"
+	- wirtschaftliche Ziele
+		- Rentabilität 
+			= Verhältnis Gewinn zum eingesetzten Kapital
+			= (Gewinn/Kapital)X100
+		- Wirtschaftlichkeit (1=kostendeckend, <1=Verlustbringend, >1=Gewinn)
+			= Verhältnis zw. Erfolg/Umsatz zum Einsatz
+			= Umsatzerlöse/Kosten oder Ertrag/Aufwand
+		- Produktivität
+			= Verhältnis Menge Produktionsleistung zu Menge Einsatz = Ergiebigkeit
+			- zB. Arbeitsproduktivität, Maschinenproduktivität etc
+			= Ausbringungsmenge/Faktoreinsatzmenge
+	- soziale Ziele
+		- Mitbestimmung
+		- faire Bezahlung
+		- Personalentwicklung
+	- ökologische Ziele
+		- Verwendung erneuerbarer Energien steigern
+		- Mülltrennung
+		- Umeltschutz
+	- Ziele stehen in unterschiedlichen Beziehungen zueinander
+		- Zielharmonie = Z. die sich gegenseitig fördern
+			- Neue Mitarbeiter - Umsatzerhöhung
+			- Personalentwicklung - Qualitätssteigerung
+			- Kostensenkung - Gewinnsteigerung
+		- Zielneutralität = Z. die unabh. voneinander sind
+			- Personalentwicklung - Mülltrennung
+			- Kostensenkung - Betriebsklima
+		- Zielkonflikt = Z. die sich gegens. behindern
+			- Kostensenkung - Teamerweiterung
+	- Zielformulierung
+		- Spezifisch
+		- Messbar
+		- Attraktiv / Akzeptiert
+		- Realistisch
+		- Terminierbar
+		=> Bsp: Die Bruttoumsätze im Bereich Hardwareverkauf steigen in Q2 um
+		15% im Vergleich zum Vorjahr
+	- Unternehmenskennzahlen
+		- 
+
+Gewinnverteilung
+	- OHG
+		- Gewinn 8000€
+		- 2 Gesellschafter einer OHG
+		- Einlage A: 20.000€, Einlage B: 30.000€ = 50.000€
+		- Im Jahr 4% von Einlage: A: 800€, B: 1200€ = 2000€
+		- Restgewinn 6000€ -> pro Kopf Verteilung: A: 3000€, B: 3000€
+	- KG
+		- Gewinn 8000€
+		- 2 Gesellschafter
+		- Einlage A: 20.000€, Einlage B: 30.000€ = 50.000€
+		- Im Jahr 4% von Einlage: A: 800€, B: 1200€ = 2000€
+		- Restgewinn 6000€ -> Aufteilung nach Einlage: A: 2400€, B: 3600€
+		- Gewinn gesamt A: 3200€, Gewinn gesamt B: 4800€
+	- GmbH
+		- Gewinn 8000€
+		- 2 Gesellschafter
+		- Einlage A: 20.000€, Einlage B: 30.000€ = 50.000€
+		- Gewinn nach Einlage: A: 3200€, B: 4800€
+	- Gesetzliche Vorgabe nach HGB, kann aber im Gesellschaftervertrag anders
+	  geregelt sein
+ 
+ Unternehmensstandort
+	= Ort, an dem das Unternehmen seine Güter herstellt
+	- Standortfaktoren
+		- hart = betreffen Unternehmen, sind messbar
+			- Verkehrsanbindung
+			- Gundstückspreis / Miete
+			- Gewerbesteuer (unterscheidet sich nach Gemeinde)
+			- Internetanschluss
+			- Lohnkosten, Arbeitskräfte
+			- gesetzl. Vorschriften, Subventionen
+		- weich = sind subjektiv geprägt, schwer messbar
+			- Freizeitangebote
+			- Image
+			- Demographie
+			- Lebenssituation

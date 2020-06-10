@@ -1,0 +1,13 @@
+Test: Nenne und erläutere Algorithmus
+
+Def: Ist eine detaillierte Verarbeitungsvorschrift für eine Problemgruppe, die
+so präzise formuliert ist, dass sie auch von einer Maschine abgearbeitet werden
+kann.
+
+Grundeigenschaften:
+- eindeutig
+	- gleiche Eingabe -> gleiche Ausgabe
+	- einzelne Schritte und Abfolge sind festgelegt
+- Allgemeingültig für eine Gruppe von ähnlichen Problemen
+- ausführbar
+- endlich (terminiert)

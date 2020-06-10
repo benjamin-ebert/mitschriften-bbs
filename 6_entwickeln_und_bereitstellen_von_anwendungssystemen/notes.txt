@@ -1,0 +1,349 @@
+
+Test: Nenne und erläutere Algorithmus
+
+Def: Ist eine detaillierte Verarbeitungsvorschrift für eine Problemgruppe, die
+so präzise formuliert ist, dass sie auch von einer Maschine abgearbeitet werden
+kann.
+
+Grundeigenschaften:
+- eindeutig
+	- gleiche Eingabe -> gleiche Ausgabe
+	- einzelne Schritte und Abfolge sind festgelegt
+- Allgemeingültig für eine Gruppe von ähnlichen Problemen
+- ausführbar
+- endlich (terminiert)
+
+
+Darstellen von Algorithmen
+ 
+- Verbal (Pseudocode)
+- Programmablaufplan
+- Struktogramm
+- Weitere (2. & 3. Lehrjahr)
+
+Verbale Algorithmus-Beschreibung
+
+- einfache klare Anweisungen
+- Wenn sich diese an Programmiersprache orientieren nennt man es Pseudocode
+- oft Sprache mit Mathematik und Elementen höherer Programmiersprachen
+
+Pseudocode:
+
+- FOR, While, if -> Entscheidung für eine Groß-/Kleinschreibweise
+- auch deutsch geht ('solange...')
+
+Aufgabe:
+- Erstellen Sie einen Pseudocode für:
+	Berechne den Mittelwert zweier Zahlen (Literale, keine Eingabe)
+	-> Literal = fest vorgegebener Wert, nicht vom Anwender bestimmt
+Lösung:
+- Ganzzahl zahl1 = 5 
+- Ganzzahl zahl2 = 7 --> Ganzzahl wird das Ergebnis auch zu einer Ganzzahl
+  runden, deshalb ergebnis definieren als: 
+- Gleitkommazahl ergebnis = zahl1 + zahl2 
+- ergebnis = ergebnis/2
+- Ausgabe ergebnis
+
+Programmablaufplan (idR in der Prüfung nicht zwingend erforderlich, da stark
+veraltet -> häufig wählbar zwischen Pseudocode oder PAP)
+
+- hauptsächlich 4 Symbole plus Ablaufpfeile (Raute, Rechteck, Rennbahn, Kreis)
+- zusätzliche E/A-Kennzeichnung möglich: Parallelogramm
+- Raute: Auswahl
+- Rechteck: Befehl -> hat immer einen Zugang und einen Abgang
+- Rechteck mit zwei Außenlinien: Modul = Rechteck in dem ein bisschen
+  mehr als sonst passiert
+- Rennbahn: Start/End -> Vom Start geht immer ein Pfeil weg (keiner hin), zum
+  Ende geht immer ein Pfeil hin (keiner weg)
+- Kreis: Verbinder (meist zu Seite 2)
+- Ablaufpfeil: Abarbeitungsrichtung -> kann auch auf anderen Pfeil (der zb.
+  senkrecht verläuft) zeigen
+- Parallelogramm: Eingabe/Ausgabe -> dafür geht aber immer auch das Rechteck
+
+Aufgabe:
+- Stellen Sie einen Programmablaufplan dar für:
+	Bestimme Minimum zweier Zahle (ohne Eingabe)
+
+Lösung:
+- Rennbahn: Start
+- Rechteck: Ganzzahl zahl1, zahl2
+- Rechteck: zahl1 = 5
+- Rechteck: zahl2 = 7
+- Raute: zahl1 > zahl2
+- Pfeil 1: ja
+- Pfeil 2: nein
+- Modul: tausche zahl1, zahl2 
+- Pfeil zu Pfeil 1
+- Rechteck: Ausgabe zahl1
+- Rennbahn: Ende
+
+
+#######################################################################
+
+Regeln zum Programmablaufplan:
+	- Endstellen haben nur einen Eingang (oben) oder einen Ausgang (unten)
+	- Verzweigungen haben einen Eingang (oben) und maximal zwei Ausgänge
+	- Andere Symbole: oben Eingang, unten Ausgang
+	--> es kann zB. kein Pfeil von der Seite kommen, und es können nicht zwei
+	Pfeile an einem Ende landen (zB. bei zwei Möglichkeiten nach if statement)
+
+Aufgabe Programmablaufplan:
+Wie gehe ich im Haus B vom Haupteingang (innen) zum Raum B21?
+
+
+Zuweisungsoperator: <--
+... ist das gleiche wie =
+
+######################################################################
+
+Darstellung für Strukturierte Programmierung (Struktogramm)
+
+- Struktogramm nach Isaac Nassi / Ben Shneidermann (PAP ohne Goto)
+- DIN 66261
+	- keine Sprünge
+	- klare Struktur
+	- alles muss im Rechteck bleiben
+	- leicht erkennbar
+	- Änderung kompliziert (Modulkonzept)
+- Sichere Syntaxvorgabe durch Symbole
+- keine programmierspezifischen Befehle benutzen
+- kein Symbol für Start und Ende
+- kleiner gleich: <=
+- ungleich: !=
+- gleich: ==
+- Strukturierte Programmierung:
+	- Algorithmus wird aus Blöcken zusammengesetzt
+	- bei Steuerung des Ablaufs ausschließlich Steuerkonstrukte: Sequenz,
+	  Selektion, Iteration
+	- Leserichtung als Steuerfluss
+
+######################################################################
+
+Modul Operator
+
+- 29 ÷ 3 = 7 Rest 2 ===> 2 ist das Ergebnis von 29 ÷ 3
+- Modul Operator gibt an, was bei einer Division als Rest raus kommt
+- Schreibtischtest, Anzahl Variablen, Schleifen, Abfragen, dann erst
+  Struktogramm
+- constanten sind variablen, die nicht verändert dürfen
+
+######################################################################
+
+Arbeit mit DevC++
+
+Übersetzung des Quelltextes durch
+	- Präprozessor
+	- Compiler
+	- Linker
+	- Loader 
+
+- Präprozessor
+	- Einfügen von Quelltext -> erstmal ist nur das wichtig
+	- Ersetzung von Makros
+	- Bedingte Übersetzung
+	- Ergebnis = vollständiger Quellcode
+- Compiler
+	- #include
+		- # ist wichtig (dahinter kein Semikolon)
+		- #incldue <datei> sucht im Insallations- / Systemordner
+		- #include "meineDatei" sucht im aktuellen Ordner
+	- Lexikalische Analyse -> prüft ob Wörter richtig geschrieben sind
+	- Syntaktische Analyse -> prüft ob Grammatik stimmt (Satzbau)
+	- Semantische Analyse -> prüft ob es Sinn macht
+	- Ergebnis = Objectcode
+	- erforderliche Methode:
+		- Methode main
+		- Rückhabewert der main-Methode
+		- Beispiel
+			- //Musterprogramm halloWelt 
+				#include <stdio.h>
+				int main() {
+					printf("Hallo Welt");
+					system("pause"); -> warte bis eine Taste gedrückt wird
+					return 0; -> ginge auch ohne, aber wichtig für die Prüfung
+				}
+			- in dem Fall deklariert int den Datentyp, der das Ergebnis sein
+			  wird, main ist dann das Ergebnis selbst
+	- Rückgabewerte / Parameter / Datentypen
+		- Ganzzahl		int, short int, long int, unsigned
+		- Gleitkomma	float, double (doppelte Genauigkeit, ist Standard) 
+		- Wahrheitswert bool
+		- Zeichen		char
+		- (Text)		string -> ist standardmäßig nicht da, braucht PProzessor
+	- Variablen
+		- Deklarieren	Bezeichner (Name), Speicherplatz (Datentyp)
+		- (Instanziieren)
+		- Initialisieren Vergabe eines Initialwertes, bsp: ergebnis=1;
+		- Benutzen
+			- ergebnis++; // Inkrement
+			- ergebnis--; // Dekrement
+			- ergebnis = ergebnis + 5 // Add 5
+			- ergebnis += 5 // Add 5
+			- while (x<10) {...}
+			- for (int i = 0; i<n; i++) {...} // for (Anfangswert, Endwert,
+			  Schrittweite -> int i ist Deklaration, i=0 ist Initialisierung,
+			  i<n ist Benutzen)
+			- Endlosschleife: for(i;) {...} // funktioniert auch
+
+- Linker
+	- Verknüpfung des Objektcodes mit den Bibliotheken
+	- Ergebnis: ausführbares Programm (.exe in Windows)
+
+- Loader
+	- Programm in den RAM laden (wenn man es dann startet)
+
+- In Pseudocode kommen keine echten Code Elemente vor (cout, printf etc..)
+
+
+Schrader:
+- dual->hexadezimal
+	- teile dualzahl vom komma ausgehend nach links und rechts in 4er blöcke
+	- jeder 4er block als einzelzahl entspricht einem wert im hd-system
+	- bsp:
+		1100111101001,01 => 1 | 1001 | 1110 | 1001 | , | 01
+		einzelne mit 0 füllen => 0001 | 1001 | 1110 |1001 | , | 0100
+		in hexadezimal konvertieren => jeder block ist 8421
+		1 9 14E 9, 4 = 19E9,4
+- Bits und Bytes
+	- 1 Bit (b) 
+		- kleinste Speichereinheit
+		- kann zwei Zustände speichern
+	- 1 Byte (B)
+		- Zusammenfassung von 8 bits
+		- kann 2hoch8 = 256 Zustände speichern
+		- kleinste adressierbare Einheit
+	- Einheitenvorsätze:
+		- 1KB = 1000B   vs   1KiB = 1024B
+		- 1MB = 1000Kb  vs   1MiB = 1024KiB
+		- 1GB = 1000MB  vs   1GiB = 1024MiB
+		- 1TB = 1000GB  vs   1TiB = 1024GiB
+Aufgabe 1:
+	Download einer 1234MiB großen Datei über DSL mit 16Mbit/s
+	Gesucht: Dauer der Übertragung
+	Rechnung: 
+		1234 * 1024 * 1024 (Umrechnung in Byte) * 8b/
+		16 * 1000 * 1000
+		= 646,97s = 10min 47s 
+Aufgabe 2:
+	Ein Scanner besitzt eine Auflösung von 300x600dpi und einer Farbtiefe von
+	24b. Wie groß ist der Scan einer farbigen A4 Seite (21x29,7cm) bei einer
+	Datenkompression von 1:10?
+	Rechnung:
+		dpi = dots per inch, 1 inch = 2,54cm
+		21cm/2.54cm * 300b/inch * 29,7cm/2,54cm * 600b/inch * 24b /10 = ?
+		29,7cm = 41.763.035b = 41.763.035:8:100hoch2 = 5,2MB
+
+Variablen, Datentypen und ihre Speicherung
+	- Daten, die im Computer gespeichert werden, müssen im RAM abgelegt werden.
+	  Dazu verwendet man Variablen, sie besitzen:
+	  - Adresse im Arbeitsspeicher
+	  - Namen um Adresse aufzulösen
+	  - Datentyp zur Größenfestlegung und Interpretation des Bitmusters
+	  - Wert
+	  - Bsp:
+		char zeichen;   //Deklaration
+		zeichen = 'A';	//Initialisierung
+	- Übersicht über wichtige Datentypen:
+		- numerische Datentypen: Ganz- und Gleitkommazahl = int/float
+		- Zeichendatentypen: Einzelzeichen und Zeichenkette = char/string
+		- logische Datentypen: bool -> dann wahr, wenn != 0
+
+##############################################################
+
+do while schleife läuft immer erstmal einmal durch, und checkt dann erst ob die
+bedingung überhaupt zutrifft => spart eine abfrage, ist zeitoptimaler => kann
+aber abstürzen wenn die bedingung nicht zutrifft
+
+#############################################################
+
+SCHRADER
+
+Speicherungsformen ausgewählter Datentypen
+	- Char Daten
+		- zur Speicherung Buchstaben bzw. kleiner Zahlen
+		- Buchstaben werden durch Übersetzung in ASCII Code gespeichert
+		- vorzeichenloser char = unsigned char
+			- alle 8 bits werden verwendet
+			- Zahlbereich: 0 bis 255 (weil 2hoch8 ist 256)
+			- Beispiel: 'A' -> ASCII 65 ('a' -> ASCII 26)
+				=> ergibt 01000001 im Arbeitsspeicher
+		- vorzeichenbehafteter char = signed char
+			- 1. bit ist Vorzeichenbit -> 0 ist positiv, 1 ist negativ
+			- Zahlbereich: wird um die Hälfte nach links verschoben
+							=> -128 bis 127 (128 neg und 128 pos)
+			- Speicherung erfolgt im Zweierkomplementverfahren
+				=> 1000 0000 ... 1111 1111 0000 0000 ... 0111 1111
+				=	-128			-1			0			127
+			- Beispiel: Berechnung von -48
+				=>	1. Umwandeln von 48 in Dual: 0011 0000
+				=>	2. Bildung Einerkomplement: 1100 1111
+				=>	3. Bildung Zweierkomplement (Einerk. + duale 1):
+						 1100 1111  
+						+0000 0001
+						----------
+						 1101 0000 = -48 im Arbeitsspeicher
+	- Integer Daten
+		- Integer: Ganzzahl mit 2 oder 4 Bytes
+		- 1. bit ist Vorzeichenbit
+		- Speicherung im Zweierkomplement
+		- Zahlbereich (bei 2 Byte int):
+		1000 0000 0000 0000 ... 1111 1111 1111 1111 
+			-32768						-1
+		0000 0000 0000 0000 ... 0111 1111 1111 1111
+				0					32767
+	- Gleitkommazahlen (Beispielhaft für floar in C/C++...)
+		- Größe 4 Bytes
+		- Aufbau:
+			VZ-bit|Exponent (8 bit)|Mantisse (23 bit)
+			- Exponent (e) gibt an, um wie viele Stellen Komma verschoben wird, um
+			  zur normalisierten Darstellung zu gelangen. Bsp:
+			  1101, 1101 wird zu 1, 101 1101 * 2hoch3 (weil 3 Kommastellen)
+			- um auch negative Exponenten speichern zu können, wird der Exponent
+			  "geteilt", dazu wird die Charakteristik (e') berechnet: 
+			  e' = e + 127
+			  => tatsächlich wird da oben die Charakteristik gespeichert, nicht
+			  der Exponent
+			- Mantisse ist die Ziffernfolge der Zahl ohne die führende 1
+	- Bsp: -12375,38
+		- Komma verschieben: -0,1237538 * 10hoch5
+				
+
+Grundlagen der Softwaretechnik
+
+Softwarekrise
+	- Anfang 60er, Softwarekosten übersteigen Hardwarekosten
+	-> viele Projekte scheitern
+	- Ursache: unnötig komplexe Umsetzung einfacher Programme, zu viel Rechenleistung
+	  nötig
+	- Folgerungen: Komplexität verringern, Paradigmen für Entwicklung erarbeiten
+
+Software-Engineering
+	- zielorientierte Bereitstellung und systematische Verwendung von
+	- Prinzipien, Methoden, Konzepten, Notationen und Werkzeugen
+	- für die arbeitsteilige, ingenieumäßige Entwicklung und Anwendung von
+	  umfangreichen Software-Systemen
+	- Kompromiss aus Qualität, Zeit und Kosten
+
+Allgemeine Prinzipien der Softwaretechnik
+	- Abstraktion 
+		- Verallgemeinerung des Problems durch Vernachlässigung unwichtiger Eigenschaften
+		- Komplexität eines Gesamtsystems reduzieren
+	- Zerlegung/Strukturierung
+		- Projekt wird in einzelne Bestandteile zerlegt, die getrennt bearbeitet
+		  werden können
+		- man unterscheidet Projekt, Programm und Modul
+		- Hierarchisierung/Modularisierung = Techniken zum Zerlegen
+
+#####################################################################
+Schröder
+#####################################################################
+
+Def. Software:
+Quellcode, Daten und Dokumentation, die zum Betrieb eines Rechnersystems nötig sind.
+Eigenschaften:
+	- Immateriell
+	- nicht direkt betrachtbar
+	- altert / verschleißt nicht
+Arten:
+	- Betriebssoftware = Firmware und Betriebssystem
+	- Anwendungssoftw. = Word (Text.), Gimp (Grafik), Audacity (Audio)

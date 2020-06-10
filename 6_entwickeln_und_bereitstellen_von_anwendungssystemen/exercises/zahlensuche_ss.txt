@@ -1,0 +1,5 @@
+
+Eingabe		Berechnung		Teilerg.	Versuch		Ausgabe
+5			5 == 14?		nein		1			-
+19			19 == 14?		nein		2			-
+14			14 == 14?		ja			2			"Treffer"

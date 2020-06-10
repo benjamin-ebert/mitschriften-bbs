@@ -1,0 +1,9 @@
+Schreibtischtest
+
+Nummer	|	Note	|	Note -9?	|	Erlaubt?	|	Summe	|	I	|	MW	|
+123		|	keine	|				|				|		0	|	0	|	0
+''			3			nein			ja					3		1		0
+''			4			nein			ja					7		2		0
+''			66			nein			nein				7		2		0
+''			4			nein			ja					11		3		0
+''			-9			ja				nein				11		3		3,66

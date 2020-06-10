@@ -1,0 +1,67 @@
+Fachliches Englisch - Frau Luda
+
+trainee - Lehrling
+apprentice - Auszubildender
+intern - Praktikant
+retrainee - Umschüler
+trainer - Ausbilder
+training - 
+IT specialist for application development - Fachinformatiker für...
+training company - Ausbildungsbetrieb
+overtime - Überstunden
+shift work - Schichtdienst
+part-time - Teilzeit
+vocational school - Berufsschule
+vocational training - Berufsausbildung
+dual training system - Duales Ausbildungssystem
+venues for training - Ausbildungsstätte (Betrieb und Schule)
+take my examination at the... - meine Prüfung ablegen bei der...
+Chamber of Industry and Commerce - Industrie- und Handelskamer
+
+berufsausbildung - apprenticeship / vocational training
+überstunden - overtime
+teilzeit - part-time
+lehrling - apprentice
+praktikant - intern
+duales ausbildungssystem - dual training system
+
+mein ausbildungsunternehmen bildet zur zeit 4 auszubildende aus
+	my training company trains 4 trainees right now / is currently training 4
+ich arbeite in schichten
+	i work in shifts
+wir machen eine ausbildung zum fachinformatiker
+	we are training to become IT specialists
+er besucht die berufsschule in halle
+	he attends the vocational school in halle
+mein ausbilder arbeitet auch beider industrie- und handelskammer
+	my trainer works at the chamber of industry and commerce too
+
+application process - Bewerbungsprozess
+	read a job application
+	mail your application
+	receive an invitation
+	take an aptitude test
+	be part in an assessment center
+
+i am training to become an IT specialist
+my training company offers training in different jobs
+i want to apply my knowlwdge
+my daily tasks contain: 
+	- working with computer programs extensively
+	- customize existing applications
+	- rectify errors / fix bugs
+	- develop user interfaces
+	- occasional client consulting / giving advice to customers
+	- maintain pc hardware
+you should appreciate result oriented work
+
+- security engineer
+- ai
+- full stack web developer
+- data scientist
+- dev ops engineer = admin und entwickler in einem
+- mobile app developer
+- frontend developer
+- cloud engineer = a lot like dev ops
+- tech lead = mathias krieck
+- network and systems admin

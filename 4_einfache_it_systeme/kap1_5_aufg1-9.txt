@@ -1,0 +1,87 @@
+KAPITEL 1.5
+
+1. Auf einer englischen Internetseite über elektr. Speicher wird der Begriff "Volatile Memory" verwendet. Welche Bedeutung hat diese Bezeichnung?
+	- flüchtiger Speicher = elektronische Speicherelement, das Daten nur speichern kann, solange eine Spannungsversorgung vorhanden ist. Bei Unterbrechnung / Abschalten gehen gespeicherte Daten verloren
+
+2. Welche verschiedenen Halbleiterspeicher gibt es in einem PC und welche Unterschiede bestehen bezüglich des Speicherverhaltens?
+	- nicht flüchtige und flüchtige Speicher (s.o.)
+	- nicht flüchtig = kann Daten auch nach Abschalten der Spannungsversorgung speichern
+
+3. Wofür stehen die Abkürzungen Flash EEPROM, SRAM, DRAM, SDRAM und DDRRAM? (Prüfungsrelevanz)
+	- Flash = besondere Kategorie von EEPROMs, ermöglicht gleichzeitiges löschen/beschreiben mehrer Bytes -> höhere Datenrate
+	- EEPROM = Electrical Erasable Programmable Read Only Memory -> byteweise Löschung von Speicherinhalt durch elektrischen Impuls
+	- SRAM = Static Random Access Memory -> arbeiten asynchron, also ohne Abstimmung auf Timing anderer Systemkomponenten
+	- SSRAM = Synchronous Static RAM -> arbeiten synchron zum Systemtakt, auch intern
+	- DRAM = Dynamic RAM -> Speicherinhalt muss in kurzen Abständen erneuert werden (Refresh)
+	- SDRAM = Synchronous DRAM -> verwendet zB. für Arbeitsspeicher, können Daten nur bei abfallender Taktsignalflanke auslesen
+	- DDR-RAM = Double Date Rate SDRAM -> Speicherbausteine können Daten auf an- und absteigender Taktflanke lesen/schreiben
+
+
+4. Die Speicherkapazität wird in MByte bzw. GByte oder neuerdings in MiByte bzw GiByte angegeben.
+	- Megabyte (MB) = Dezimalpräfix
+	- Mebibyte (MiB) = Binärpräfix
+	-> unterschiedliche Zahlenwerte je nach Präfixart
+
+5. WelcheArtenvonFlashspeicherkartengibtes? Welche Eigenschaften haben sie?
+	- Compact Flash (CF)
+		- Typ I / II-> 50 Pins, 160 MiB/s
+		- CFAST 2.0 -> 24 Pins, 600 MiB/s
+	- Secure Digital (SD)
+		- Standard / SDHC / SDXC -> 9 Pins, 25-100 MiB/s
+		- miniSD / miniSDHC -> 11 Pins, 25-30 MiB/s
+		- microSD -> 8 Pins, 25 MiB/s
+
+6. Bei SDHC Speicherkarten wird der sogenannte Speed-Class angegeben. Was bedeutet SDHC und welche Informationen kann man der Speed-Class entnehmen?
+	- SDHC = Secure Digital High Capacity
+	- Speed-Class = Tempoklasse -> minimal garantierte Schreibgeschwindigkeit auf den Datenträger
+
+7. Was bedeutet ein Refresh im Zusammenhang mit elektronischen Speicherzellen?
+	- DRAM Zelle besteht aus Transistor und Kondensator
+	- Informationsspeicherung durch Ladungsspeicherung im Kondensator
+	- Kondensator gibt permanent Ladung ab = Informationsverlust
+	- deshalb Refresh alle 64ms = Spannungsimpuls, Informationen auslesen, erneut schreiben
+	- während Refresh kein Zugriff auf gespeicherte Daten durch Prozessor möglich
+	- Refreshzyklus Selbststeuerung durch eingebaute Steuerlogik (Self-Refresh)
+
+8. Welche Kontrolle lässt sich bei Speicherbausteinen mit einer Paritätsprüfung durchführen?
+ Erläutern Sie das Grundprinzip der Paritätsprüfung. (Prüfungsrelevanz)
+	- Möglichkeit der Fehlerkontrolle anhand eines zusätzlichen Paritätsbits -> ist 0 oder 1, je nachdem ob Anzahl an Einsen im Datenbyte gerade oder ungerade ist
+	- erkennbar ob Fehler innerhalb des Datenworts aufgetreten ist, Korrektur allerdings nicht möglich
+
+9. Als Arbeitsspeicher werden in Desktop-PCs sogenannte DIMM-Module verwendet.
+Erläutern Sie die Bezeichnung DIMM.
+	- Dual Inline Memory Modul -> Speichermodule deren Anschlusskontakte beidseitig an einem Rand der Leiterplatte angebracht werden, auf dem die Speicherchips befestigt sind
+
+10. Erläutern sie bei den DIMM Modulen den Unterschied zwischen UDIMMs und FBDIMMs
+	- UDIMM = Unbuffered Dual Inline Memory Module -> kein Zwischenspeicher (Cache), direkte Weiterleitung an Chipsatz 
+	- FBDIMM = Fully Buffered DIMM -> enthalten Buffer zur Ansteuerung (idR für Server und DDR2/3)
+
+11. Ein RAM Modul gehört zur Geschwindigkeitsklasse PC3-14900. Wie schnell wird dieses Modul getaktet und welche alternative Bezeichnung kann dieses Speichermodul zur Einordnung in eine Geschwindigkeitsklasse tragen
+	- 1866MHz
+	- 
+
+12. Welche Datenübertragungsraten ergeben sich theoretisch bei einem Speichertakt von 133 MHz bei einem SDR-SDRAM-Modul, einem DDR2-SDRAM-Modul und einem DDR3-SDRAM-Modul?
+	- SDR: 2,1 GB/s
+	- DDR2: 4,2 GB/s
+	- DDR3: 8,5 GB/s
+
+13. was bedeutet die Bezeichnung Triple Channel
+	- Speicheraufbau zum parallelen Betrieb von 3 RAM mit gleicher Kapazität 
+
+14. was versteht man unter dem sogenannten Speicher-Timing und wie ist die diesbezügliche Einstellung 2-3-3-8 im Bios/UEFI zu Interpretieren 
+	- 2 Zyklen CL (CAS Latence): Intervall zwischen Datenabfrage des Prozessors und Datenlieferung des Arbeitsspeichers
+	- 3 Z. tRCD (RAS to CAS Delay): Intervall zwischen Adressierung der Zeilen
+	- 3 Z. rRP (RAS Precharge): Intervall zwischen Zeilendeaktivierung und Zeilenauswahl 
+	- 8 Z. tRAS (Active to Precharge Delay): Intervall zwischen beendetem und nächstem Zugriff 
+
+15. Wodurch unterschiedet sich allgemein der Cache Speicher von dem normalen Arbeitsspeicher? Wie ist er aufgebaut und welche Funktionen hat er?
+	- RAM kleiner und schneller
+	- Cache größer und langsamer, wird wir oft benutzte Daten verwendet
+
+16. Warum werden in einer CPU unterschiedliche Cache-Stufen eingesetzt?
+	- Aufspaltung größerer in kleinere Befehlsblöcke (L3->L1 Cache), Reihenfolge beim Ausführen bleibt bestehen
+	- kein ständiger RAM Zugriff nötig
+
+17. Was versteht man unter dem RTC RAM?
+	- Real Time Clock RAM, bestimmt Uhrzeit des Computers
+

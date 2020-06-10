@@ -1,0 +1,43 @@
+Powepoint
+- Masterfolien als Vorlage für neue Folien -> Ansicht|Folienmaster
+- Referentenansicht als Stütze beim Vortrag
+
+
+Welcher Effekt entsteht beim Ausschalten einer Spule
+	- wird die Versorgungsspannung von der Schaltung getrennt, leitet die Spule
+	  den Strom noch eine Zeit lang weiter, bis ihr Magnetfeld abgebaut ist
+	- Dabei sinkt die Spannung proportional zur Stromänderung
+	- Dadurch entsteht neben der negativen Steigung des Stromflusses negative
+	  Spannung
+	-> eigenes Magnetfeld der Spule bleibt erhalten, induziert Spannung in
+	Spule, Spannung steigt dabei um das bis zu 10 fache
+	- Magnetfeld entsteht immer dann wenn, Strom durch nen Leiter fließt
+
+Erklären Sie Störfestigkeit und Störaussendung. Wie verhindert man diese
+Effekte?
+- Festigkeit
+	= Fähigkeit eines Gerätes, während einer elektomagnetischen Störung von
+	außen einwandfrei zu funktionieren
+	- Schirmung-> faradeyscher Käfig, Isolierung der Leitfähigen Materialien
+		- verstärkte Kupferschichten, Metallbedämpfte Plastikfolie, Graphit und
+		  Leitlackschichten
+- Aussendung
+	= Fähigkeit eines Gerätes elektromagnetische Störungen zu erzeugen
+	- X-Kondensatoren: zur Unterdrückung von Gegentaktstörungen, Schutz vor
+	  Stromschlägen, bei Versagen Kurzschluss
+	- Y-Kondensatoren: zur Unterdrückung von Gleichtaktstörungen
+	- XY-Kondensatoren
+	- Grundprinzip: Kondensator nimmt Störfeld auf, gibt es zu geeignetem
+	  Zeitpunkt wieder ab
+
+Was beschreibt das EMV-Gesetz
+	- EMV = Elektromagnetische Verträglichkeit
+	- Verträglichkeit mit Umwelt: Grenzwerte von Strahlenlasten
+	- Verträglichkeit von Geräten: Fähigkeit, in einer elektromagnetischen
+	  Umwelt so zu arbeiten, dass die Umwelt nicht gestört wird
+	- Testen von Störfestigkeit: Gerät wird elektromagnetischem Feld ausgesetzt,
+	  durch Abänderung von Spannung und Frequenz wird funktionstüchtiger Bereich
+	  bestimmt
+	- Testen von Störaussendung: mit Feldstärkenmessgerät
+
+
