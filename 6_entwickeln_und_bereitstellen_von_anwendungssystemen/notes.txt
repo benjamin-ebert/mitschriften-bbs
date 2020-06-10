@@ -311,7 +311,7 @@ Speicherungsformen ausgewählter Datentypen
 Grundlagen der Softwaretechnik
 
 Softwarekrise
-	- Anfang 60er, Softwarekosten übersteigen Hardwarekosten
+	- Ende 60er, Softwarekosten übersteigen Hardwarekosten
 	-> viele Projekte scheitern
 	- Ursache: unnötig komplexe Umsetzung einfacher Programme, zu viel Rechenleistung
 	  nötig
@@ -333,6 +333,41 @@ Allgemeine Prinzipien der Softwaretechnik
 		  werden können
 		- man unterscheidet Projekt, Programm und Modul
 		- Hierarchisierung/Modularisierung = Techniken zum Zerlegen
+	- Modularisierung
+		- Schaffung von funktional abgeschlossenen Bausteinen
+		- Festlegung der Schnittstellen zwischen Modulen
+		- Möglichkeit der Wiederverwendung als zusätzlicher Vorteil
+		- Projekt: Gesamtheit mehrerer Programme
+		- Programm: ein allein startbarer Projektteil, besteht aus Modulen
+		- Modul: einzelner Programmbaustein
+			- überschaubare Größe
+			- Kapselung (innere Struktur verborgen, Zugriff über Schnittstellen)
+			- Trennung von inneren / äußeren Daten / Methoden
+	- Methoden:
+		- Top-down -> beginnt beim großen Ziel, unterteilt in Zwischenschritte
+		- Bottom-up -> beginnt bei einzelnen Usecases, fasst zu größeren
+		  Abschnitten zusammen
+
+Softwarebegriff:
+	- Software umfasst Programme, Dokumentationen und Daten, die mit dem Betrieb
+	  eines Rechnersystems zu tun haben
+Eigenschaften von Software:
+	- immateriell
+	- kann nicht ohne weiteres betrachtet werden
+	- verschleißt nicht
+	- Kopie und Original sind identisch
+ Systematik von Software:
+	- Systemsoftware: Betriebssystem
+	- systemnahe Software: IDEs, Entwicklertools
+	- Anwendungssoftware
+		- Standard-SW: Office Pakete
+		- Branchen-SW: für spezielle Branchen
+		- Individual-SW: für spezielle Aufgaben
+Arten von Software:
+	- proprietär: kostenpflichtig, Quellcode nicht erkennbar
+	- Freeware: kostenlos, QC nicht erkennbar
+	- Shareware: kostenlos, weitergeben erlaubt, QC nicht erkennbar
+	- Open Source: QC erkenn- und änderbar
 
 #####################################################################
 Schröder
