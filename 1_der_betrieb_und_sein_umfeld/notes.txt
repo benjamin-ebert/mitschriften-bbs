@@ -64,6 +64,40 @@ Ziele des Wirtschaftens:
 
 Arten von Betrieben - siehe AB, Hierüber Test nächstes Mal
 
-5 Gestaltungsmerkmale unseres Wirtschaftssystems:
-	- Bekämpfung von Preisabsprachen
-	- ...
+Der Begriff Volkswirtschaft
+	- Def: Gesamtheit aller einem Wirtschaftsraum zugeordneten
+	  Wirtschaftssubjekte 
+	- Bestandteile: 
+		- Haushalte: bieten Arbeitskraft, Fragen Güter / Dienste nach
+		- Unternehmen: bieten Güter / Dienste, fragen Arbeitskraft nach
+		- Staat: fragt Güter / Dienste nache
+		- andere Volkswirtschaften: Austausch / Import / Export
+
+Gemeinsame Volkswirtschaft:
+	- 
+
+Wirtschaftssystem in Deutschland
+
+Merkmale:
+	- Soziales Netz
+	- Tarifautonomie
+	- Ordnungs- und Prozesspolitik:
+
+Staatliche Ordnungspolitik:
+	- Schaffung eines rechtlichen und institutionellen Rahmens (Kartellamt,
+	  Bundesnetzagentur)
+	- Korrektur von Markmängeln (z.B. aktuell Abgabe von Start- und Landerechten
+	  der Lufthanse in Frankfurt um staatliche Förderung nach Coronakrise zu
+	  erhalten)
+Staatliche Prozesspolitik:
+	- Einkommens- und Vermögensverteilung durch Steuern
+	- Lohnsteuer, Besteuerung der Rente, Steuern auf Einnahmen
+
+Magisches Viereck der Volkswirtschaft:
+	- hoher Beschäftigungsgrad
+	- stabiles Preisniveau
+	- stetiges und angemessenes Wirtschaftswachstum
+	- außenwirtschaftliches Gleichgewicht
+Fehlende Aspekte:
+	- Soziale Nachhaltigkeit, Zufriedenheit
+	- Nachhaltigkeit der Staatsfähigkeit und -finanzen
