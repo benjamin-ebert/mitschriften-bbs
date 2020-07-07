@@ -81,4 +81,58 @@ Quellenangaben, Literaturverzeichnis, Zitate
 	- Ebd. S8f.: erspart mir Name, Titel, Ort, Jahr immer wieder anzugeben
 	- Vgl. Nachn. Vorn., Titel: Quellenangabe bei sinngemäßem Zitieren
 		oder sogar: Vgl. Ebd. S. 8ff
-	- 
+
+
+## Arbeit mit Statistik
+
+### Inhalt eines Schaubildes wiedergeben:
+
+- Vorarbeit
+	- Schaubild genau betrachten
+	- Aus welchen Teilen besteht es
+	- Was fällt auf
+	- Worauf beziehen sich die Zahlen
+- Aufbau
+	- passende Einleitung schreiben, Kontext geben
+	- Quellen angeben: Thema, Erscheinungsort / -zeit, Autor, Seriosität
+	- Schluss: kurze Auswertung
+- Zeitform Präsens
+- Sprache Sachlich
+
+### Übung
+
+Verteilung der 15-Jährigen auf die Bildungsgänge im Jahr 2000 und 2012 nach
+sozioökonomischem Status in %
+
+- y-Achse: sozioökonomischer Status in 3 Stufen aufsteigend: niedrig, mittel,
+  hoch, dabei jeweils zweigeteilt in Stand 2000 und Stand 2012
+- x-Achse: aufeinanderfolgend Menge der Schüler auf Haupt- / Real- /
+  Gymnasium / Gesamt- / sonstiger Schule, Größe der Anteile entspricht Prozentsatz
+- Quelle: Bundesbilungsministerium
+- Auswertung:
+	- hoher Status: von 2000 zu 2012 mehr Schüler auf Gymnasien / Gesamtschulen,
+	  andere Schulformen absteigend
+	- mittlerer Status: gleiches Bild, absolut weniger Schüler auf Gymnasium als
+	  bei hohem Status, mehr Schüler auf den anderen Schulformen
+	- niedriger Status: gleiches Bild, gleicher Trend, 2000 hat Hauptschule
+	  größten Anteil, 2012 hat Gesamtschule größten Anteil
+- Fazit: 
+	- Schüler scheinen eher auf dem Gymnasium zu sein, je höher der Status ist
+	- zeitlicher Trend zu Gymnasien / Gesamtschulen 
+- Interpretation:
+	- wenn sozioökonomisch gleichbedeutend mit finanziell, dann eindeutiger
+	  proportionaler Zusammenhang zwischen Geldsituation der Eltern und
+	  Niveau des Bildungsgangs des Kindes
+	- ist das nicht der Fall, liegt der Zusammenhang evtl. anders, nämlich:
+	  Bildung der Eltern -> soz.ök. Status der Eltern
+	         |
+			 v
+	  Bildungsgang des Kindes
+	  => Zusammenhang Status / Bildungsgang wäre dann nur scheinbar, Ursache für
+	  beides kann zB. der Bildungsstand der Eltern sein
+	- denkbar, da Schule in Dt. sowieso kostenlos, Geld würde dann nur über
+	  Bestechungsgelder funktionieren
+	- Status der Eltern ist ebenfalls mit deren Bildungsstand erklärbar
+	- INtelligen bringt Geld, und Intelligenz vererbt sich
+	- interessant wäre zu wissen, wie die Entwicklung außerhalb dieses Zeitraum
+	  aussah

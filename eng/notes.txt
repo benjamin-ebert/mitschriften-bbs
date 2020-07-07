@@ -65,3 +65,27 @@ you should appreciate result oriented work
 - cloud engineer = a lot like dev ops
 - tech lead = mathias krieck
 - network and systems admin
+
+### Übung
+
+Ebook Reader
+- small computer for reading digital books (ebooks)
+- name: electronic book reader -> a device that reads electronic books
+- started to become a thing with amazons kindle about 2010
+- can hold all your books
+- lighter weight than most books, very portable
+- battery lasts weeks or even months
+- pretty cheap, especially if bought second hand
+- can mark text and make notes
+- contains dictionaries for most languages -> can look up a word and show a
+  short explanation when you move the cursor to that word while reading
+- reading layout, fonts etc. are customizable - you could make it so small that
+  you now always had a reason to read with your magnifier, if you're into that
+
+  you can make it so small, you'll never have to defend yourself again for using a
+  magnifier for reading - that feature alone will bring more peace into
+  your life.
+- looks like paper, doesn't feel like looking at a screen
+- glows in the dark - good bye, dreaded reading lamps!
+- if you're short on cash you can download your books for free illegally,
+  which is more convenient than physically stealing books from the book store
