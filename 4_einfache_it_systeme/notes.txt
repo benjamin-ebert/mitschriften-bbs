@@ -396,3 +396,22 @@ Erläutern Sie die Bezeichnung DIMM.
 	- FBDIMM: haben Kühlkörper und Zusatzmodule
 
 11. 
+
+12.
+
+13.
+
+14.
+
+15. Was ist Cache Speicher
+	- kleiner und schneller als Arbeitsspeicher
+	- lädt Daten voraus und hält sie für Prozessor bereit
+
+16. Warum werden verschiedene Cache Stufen eingesetzt
+	- First Level Cache am kleinsten, schnellsten und nächsten zum Prozessor
+	- Second und Third Level entsprechend größer, langsamer, weiter weg
+
+17. Was ist RTC RAM
+	- Real Time Clock, speichert interne Systemzeit
+
+
