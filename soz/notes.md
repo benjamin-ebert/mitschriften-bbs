@@ -221,7 +221,8 @@ ist, stehen ihm 30, 27, 25 Werktage zu.
 	- Rentenversicherung
 	- Pflegeversicherung
 	- Arbeitslosenversicherung
-	- Unfallversicherung (zahlt Arbeitgeber zu 100%)
+	- Unfallversicherung (zahlt Arbeitgeber zu 100%, beachten wenn zB. in
+	  Prüfung nach Abzügen gefragt wird, die Arbeitnehmer zahlt)
 	- Kirchensteuer
 	- Solidaritätsbeitrag (richtet sich nach Höhe d. Lohnsteuer)
 - Lohnsteuerklassen
@@ -286,13 +287,12 @@ ist, stehen ihm 30, 27, 25 Werktage zu.
 			Investitionen, Zusammenschlüsse, Aktienausgabe, Beteiligung...)
 
 
-### Abzüge vom Lohn
+## Gesetzliche Sozialversicherungen und Individualversicherungen
 
-- Bruttolohn = Gehalt vor Abzügen
-- Nettolohn = überwiesener Betrag nach gesetzlichen Abzügen
-- Abzüge
-	- Lohnsteuer 
-	- Rentenversicherung
-	- Arbeitslosenversicherung
-	- Pflegeversicherung
-	- Solidaritätszuschlag
+### Gesetzliche Sozialversicherungen
+
+- SV erste umfassende Gesetzgebung der Welt zum Schutz der	AN und anderer Personen (Hausfrauen, Schüler, Rentner..) gegen Risiken des Berufsalltags, des Privatlebens und des Alters
+- gegründet von Bismarck 1883
+- Unfavllversicherung kam 1884
+- Rentenversicherung kam 1889
+- Pflegeversicherung kam 1995
