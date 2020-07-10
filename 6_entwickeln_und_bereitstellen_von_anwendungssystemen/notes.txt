@@ -382,3 +382,23 @@ Eigenschaften:
 Arten:
 	- Betriebssoftware = Firmware und Betriebssystem
 	- Anwendungssoftw. = Word (Text.), Gimp (Grafik), Audacity (Audio)
+
+## Module
+
+### Kennzeichnung:
+- Signatur
+	- Name
+	- Anzahl, Art, Reihenfolge der Parameter
+	- bei streng strukturierten Sprachen gehört noch dazu:
+		- Rückgabetyp
+		- Sichtbarkeitsmodifikator
+		- Überschreibbarkeitsmodifikator
+- Bsp:
+	- int oeffne() -> int oeffne(int winkel, int raumNr) 
+
+### Arbeiten intern im Modul
+
+- meist "Call by Value" = es wird nicht mit dem Original gerechnet, nur ein Wert wird
+  zurückgegeben
+- auch möglich: "Call by Reference" = übergeben wird ein Zeiger auf das
+  Original, mit dem Original wird direkt gerechnet
