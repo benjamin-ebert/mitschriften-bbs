@@ -8,7 +8,7 @@ URL: bbsg.media
 PW: #MaxGutjahr2021#
 
 ### Verkürzen
-- Infos: [https://www.halle.ihk.de/bildung/pruefungen/ausbildungspruefungen/zulassung-zur-pruefung-channel/vorzeitige-zulassung-zur-abschlusspruefung-630180]
+- Infos: https://www.halle.ihk.de/bildung/pruefungen/ausbildungspruefungen/zulassung-zur-pruefung-channel/vorzeitige-zulassung-zur-abschlusspruefung-630180
 - Antrag mitsamt Unterlagen einschicken bis 31.01.21
 - Antrag = Antrag auf vorzeitige Teilnahme an Abschlussprüfung (Sommer 2021)
 - Unterlagen:
