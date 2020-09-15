@@ -2,39 +2,39 @@
 
 ### Pro / Contra Gründe für Vernetzung
 - Kommunikation der Nutzer
-	Pro:
+	- PRO:
 	- Komm. über Mail, Chat...
 	- User kann eindeutig benannt werden
 	- Gruppierungen möglich
-	Contra:
+	- CONTRA:
 	- Identitätsdiebstahl
 	- Nachrichteninhalte manipulierbar
 	- loggbar
 - Datenübertragung
-	Pro:
+	- PRO:
 	- schneller Datenaustausch
 	- zentrale Datenverwaltung
 	- 24/7 Verfügbarkeit der Daten
-	Contra:
+	- CONTRA:
 	- Dateninhalte manipulierbar
 	- Fishing
 	- mögliche Kompromittierung des Netzwerks nach erfolgreichem Angriff auf Einzelrechner
 - Teilung von Hardware
-	Pro:
+	- PRO:
 	- teure HW kann von mehreren Usern benutzt werden
 	- Vereinheitlichung von HW
-	Contra:
+	- CONTRA:
 	- Sicherheitsprobleme bei personenbezogenen Daen (Personalunterlagen)
 	- HW Ausfall hat übergreifende Wirkung
 - Dezentralisierung
-	Pro:
+	- PRO:
 	- Fernwartung / Support / Homeoffice möglich
-	Contra:
+	- CONTRA:
 	- abhängig von Netzinfrastruktur
 - (Sicherheitsbetrachtung)
-	Pro:
+	- PRO:
 	- zentrale Verwaltung von Regeln
-	Contra:
+	- CONTRA:
 	- User ist größte Sicherheitslücke
 
 ### Teilschritte Angebotserstellung (Prüfungsrelevant)
