@@ -66,5 +66,20 @@ Gut bildet
 = Fähigkeit Rechtsgeschäfte selbstständig und voll wirksam vornehmen zu können
 - Voraussetzung: Willenserklärung
 - Geschäftsunfähigkeit
+	- bis Vollendung des 7. Lebensjahres
+	- Geisteskranke
+	- Rechtsgeschäfte sind nichtig (ungültig)
 - Beschränkte Geschäftsfähigkeit
+	- bis zur Vollendung des 18. Lebensjahres
+	- Rechtsgeschäfte sind schwebend unwirksam bis Einwilligung
 - Volle Geschäftsfähigkeit
+	- ab Vollendung des 18. LJ
+	- Rechtsgeschäfte sind voll gültig
+- Sonderfälle
+	- Geschäfte, die mit Taschengeld getätigt werden
+	-> gültig, da TG zur freien Verfügung gestellt
+	- Geschäfte, die im Rahmen eines erlaubten Arbeitsverhältnisses durchgeführt
+	  werden
+	- Geschäfte, die keinen rechtlichen Vorteil bringen
+	- Geschäfte, die bei erlaubter Führung eines selbstständigen
+	  Geschfäftsbetriebes durchgeführt werden
