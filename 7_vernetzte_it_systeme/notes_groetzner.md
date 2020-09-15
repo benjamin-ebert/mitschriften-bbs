@@ -1,30 +1,40 @@
 # Vernetzte IT-Systeme
 
-### Pro / Kontra Gründe für Vernetzung
+### Pro / Contra Gründe für Vernetzung
 - Kommunikation der Nutzer
-	+ Komm. über Mail, Chat...
-	+ User kann eindeutig benannt werden
-	+ Gruppierungen möglich
+	Pro:
+	- Komm. über Mail, Chat...
+	- User kann eindeutig benannt werden
+	- Gruppierungen möglich
+	Contra:
 	- Identitätsdiebstahl
 	- Nachrichteninhalte manipulierbar
 	- loggbar
 - Datenübertragung
-	+ schneller Datenaustausch
-	+ zentrale Datenverwaltung
-	+ 24/7 Verfügbarkeit der Daten
+	Pro:
+	- schneller Datenaustausch
+	- zentrale Datenverwaltung
+	- 24/7 Verfügbarkeit der Daten
+	Contra:
 	- Dateninhalte manipulierbar
 	- Fishing
 	- mögliche Kompromittierung des Netzwerks nach erfolgreichem Angriff auf Einzelrechner
 - Teilung von Hardware
-	+ teure HW kann von mehreren Usern benutzt werden
-	+ Vereinheitlichung von HW
+	Pro:
+	- teure HW kann von mehreren Usern benutzt werden
+	- Vereinheitlichung von HW
+	Contra:
 	- Sicherheitsprobleme bei personenbezogenen Daen (Personalunterlagen)
 	- HW Ausfall hat übergreifende Wirkung
 - Dezentralisierung
-	+ Fernwartung / Support / Homeoffice möglich
+	Pro:
+	- Fernwartung / Support / Homeoffice möglich
+	Contra:
 	- abhängig von Netzinfrastruktur
 - (Sicherheitsbetrachtung)
-	+ zentrale Verwaltung von Regeln
+	Pro:
+	- zentrale Verwaltung von Regeln
+	Contra:
 	- User ist größte Sicherheitslücke
 
 ### Teilschritte Angebotserstellung (Prüfungsrelevant)
