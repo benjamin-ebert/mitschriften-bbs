@@ -2,6 +2,8 @@
 
 ### Tests
 Mo 21.09.20 Test LF8 - Rechtsnormen, Rechtsfähigkeit, Geschäftsfähigkeit
+Do			Test LF9 - Funktionsweise Internet, Topologien, geografische
+Ausdehnung von Netzen
 
 ### Zugang für Downloads / Afgaben etc.
 URL: bbsg.media

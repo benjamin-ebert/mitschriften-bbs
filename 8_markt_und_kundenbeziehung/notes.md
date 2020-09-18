@@ -83,3 +83,19 @@ Gut bildet
 	- Geschäfte, die keinen rechtlichen Vorteil bringen
 	- Geschäfte, die bei erlaubter Führung eines selbstständigen
 	  Geschfäftsbetriebes durchgeführt werden
+
+## Rechtsgeschäfte
+= jeder aus mindestens einer Willenserklärung bestehender Tatbestand, der eine
+Rechtsfolge herbeiführt -> zB Kaufvertrag: Übertragung des Eigentums an einer
+Sache
+- Form: mündlich, schriftlich, schweigend (bei Geschäftspartnern) oder schlüssig / konkludent (Vertrag wird
+  eingegangen wenn ich in die Bahn einsteige)
+- einseitiges Rechtsgeschäft -> eine Willenserklärung
+	- empfangsbedürftig: erst rechtswirksam, wenn Empfänger die WE erhalten hat -> Mahnung, Kündigung
+	- nicht empfangsbedürftig: bereits rechtswirksam bei Abgabe der WE ->
+		Testatament, Auslobung (Finderlohn)
+- zwei- oder mehrseitiges Rechtsgeschäft -> mind. zwei übereinstimmende WE
+	- abgebende WE = Antrag -> Vertrag (inhaltl. Übereinstimmung) -> zustimmende
+	  WE = Annahme
+	- einseitig verpflichtend: ohne Gegeleistung -> Schenkung, Bürgschaft
+	- mehrseitig verpflichtend: Leistung und Gegenleistung -> Kaufvertrag

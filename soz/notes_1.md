@@ -13,7 +13,6 @@ Das BBig gilt nicht für Schüler und Studenten (Schul- / Hochschulgesetze).
 
 
 ## Berufsausbildung
-
 - Grundlage ist der Lehrvertrag -> muss schriftlich sein
 - Vertragspartner: Arbeitgeber & Arbeitnehmer -> unter 18 gesetzlicher Vertreter
 - wesentlicher Inhalt:
@@ -49,7 +48,6 @@ Das BBig gilt nicht für Schüler und Studenten (Schul- / Hochschulgesetze).
 
 
 ### Pflichten Lehrling:
-
 - Arbeitspflicht
 - Berufsschulpflicht
 - Führen des Berichtshefts
@@ -62,7 +60,6 @@ Das BBig gilt nicht für Schüler und Studenten (Schul- / Hochschulgesetze).
 
 
 ### Pflichten Arbeitgeber:
-
 - Arbeitsschutzmittel
 - Arbeitsschutbelehrung durchführen
 - Fürsorgepflicht
@@ -73,19 +70,16 @@ Das BBig gilt nicht für Schüler und Studenten (Schul- / Hochschulgesetze).
 
 
 ### Rechte Arbeitgeber
-
 - Freistellung von der Berufsschule
 
 
 ### Beendigung der Ausbildung
-
 - nach erfolgreichem Bestehen der Abschlussprüfung mit Nachweis (= wenn ich
 	das Zeugnis habe)
 - nach Ablauf der Zeit, die vereinbart wurde
 
 
 ### Kündigung und Aufhebung
-
 - Fristgerecht
 - Fristlos
 - Aufhebungsvertrag (im Einvernehmen)
@@ -105,7 +99,6 @@ ist, stehen ihm 30, 27, 25 Werktage zu.
 
 
 ### Arbeitsverbot: 
-
 - Nachtarbeit (22-6)
 - Akkorarbeit = Bezahlung nach Stückzahl
 - Fließbandarbeit
@@ -115,7 +108,6 @@ ist, stehen ihm 30, 27, 25 Werktage zu.
 
 
 ### Berufsschule:
-
 - Ein jugendlicher muss vom Unterricht befreit werden
 - 45min Unterricht sind 60min Arbeitszeit
 - beginnt der Unterricht vor 9 Uhr, kann der Lehrling vorher nicht
@@ -128,13 +120,11 @@ ist, stehen ihm 30, 27, 25 Werktage zu.
 
 
 ### Tägliche Freizeit:
-
 - Zeit zwischen Arbeitsende und -beginn
 - ununterbrochene 12h für Jugendliche
 
 
 ### Nachtruhe:
-
 - im Allgemeinen von 6 bis 20 Uhr Beschäftigung möglich (für Jugendliche)
 - Ausnahmen:
 	- ab 16 
@@ -150,7 +140,6 @@ ist, stehen ihm 30, 27, 25 Werktage zu.
 
 
 ### Umschulung / Fortbildung
-
 - bei einer Fortbildung / Weiterbildung / Qualifizierung: besteht eine
 	direkte Verbindung zu seinem Beruf oder beruflichen Tätigkeit in
 	Zusammenhang mit
@@ -162,7 +151,6 @@ ist, stehen ihm 30, 27, 25 Werktage zu.
 
 
 ## Arbeitsrecht
-
 - wird auch als Sonderrecht der Arbeitnehmer bezeichnet
 - nicht jeder, der für einen anderen eine Arbeit leistet, fällt unter den
 	Geltungsbereich des Arbeitsrechts
@@ -185,7 +173,6 @@ ist, stehen ihm 30, 27, 25 Werktage zu.
 
 
 ### Pflichten aus dem Arbeitsverhältnis
-
 - Grundlage ist Arbeitsvertrag zw AG und AN
 - AV beendet wenn:
 	- befristet und abgelaufen
@@ -199,7 +186,6 @@ ist, stehen ihm 30, 27, 25 Werktage zu.
 
 
 ### Lohn und Gehalt
-
 - drei allgemeine Lohnarten
 	- Zeitlohn = Stundenlöhne oder Monatsgehälter -> nicht leistungsfördernd
 	- Leistungslohn -> leistungsfördernd
@@ -208,7 +194,6 @@ ist, stehen ihm 30, 27, 25 Werktage zu.
 
 
 ### Lohnsteuer / Einkommensteuer
-
 - Lohnsteuer => Steuer auf den Lohn
 	- wird aus Bruttolohn bezahlt, aus nichtselbstständiger Tätigkeit
 - Einkommensteuer => Steuer auf Zusatzeinnahmen 
@@ -235,7 +220,6 @@ ist, stehen ihm 30, 27, 25 Werktage zu.
 
 
 ### Kündigungsarten
-
 - ordentliche Kündigung (fristgerecht bzw. fristgemäß)
 	- endet und gilt nach gesetzlicher Frist oder nach Arbeitsvertrag oder
 		Tarifvertrag
@@ -257,7 +241,6 @@ ist, stehen ihm 30, 27, 25 Werktage zu.
 
 
 ### Arbeits- und Tartifrecht (Prüfungsrelevant)
-
 - Arbeitsrecht wird auch als Sonderrecht der Arbeitnehmer bezeichnet
 - anders als zB. beim Strafrecht gibt es eine Vielzahl von Gesetzen,
 	Verordnungen, Verträgen und gesetzlichen Bestimmungen, die das
@@ -290,9 +273,21 @@ ist, stehen ihm 30, 27, 25 Werktage zu.
 ## Gesetzliche Sozialversicherungen und Individualversicherungen
 
 ### Gesetzliche Sozialversicherungen
-
 - SV erste umfassende Gesetzgebung der Welt zum Schutz der	AN und anderer Personen (Hausfrauen, Schüler, Rentner..) gegen Risiken des Berufsalltags, des Privatlebens und des Alters
 - gegründet von Bismarck 1883
 - Unfavllversicherung kam 1884
 - Rentenversicherung kam 1889
 - Pflegeversicherung kam 1995
+
+### Versicherungspflichtige Personengruppen
+- Arbeitnehmer (Personen, deren Arbeit fremdbestimmt ist, und die einen Arbeitsvertrag mit
+festgesetzter Entlohnung haben = Arbeiter, Angestellte, Studenten, Auszubildende, Beamte)
+- Kinder (versicherungspfl. Familienangehörige)
+- Rentner
+- freiwillig Versicherte
+
+### Krankenversicherung
+- Träger: Krankenkassen (AOK, Barmer, DAK, TK...)
+- Beiträge
+	- Arbeitgeber: 50% vom Gesamtbeitrag
+	- Arbeitnehmer: 50% vom Geseamtbeitrag
