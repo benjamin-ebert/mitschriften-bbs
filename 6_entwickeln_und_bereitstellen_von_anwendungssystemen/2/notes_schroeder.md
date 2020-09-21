@@ -87,3 +87,76 @@
 - RechteckAufFolie.farbe = Farbe.rot (dh. Klasse "Farbe", Attributwert "rot")
 - RechteckAufFolie.breite = 15 (cm)
 - RechteckAufFolie.beschriftet = nein
+
+### Ziel der OOP
+- soll Probleme der Softwarekrise lösen
+- Variablen werden in Klassen / dem Objekt gespeichert
+- Methoden sind einheitlich für alle Objekte einer Klasse
+- Beides bewirkt einfachere Wartung
+
+### Wieso Begriff Objektorientierung?
+- System besteht aus vielen Objekten
+- Objekte haben EINEN inneren Zustand
+- Objekte verarbeiten Botschaften (durch ihre eigenen Operationen)
+- Klassen bestimmen nur die möglichen Aktionen / Reaktionen
+
+### Drei Grundprinzipien OOP
+- Bilden den kleinsten gemeinsamen Nenner der Objektorientierung:
+	- Kapselung
+	- Vererbung
+	- Polymorphie
+- Zusatz: Abstraktion, Wiederverwendbarkeit, Beziehungen
+
+### Prinzipien
+- Kapselung
+	- Form der Modularisierung
+	- Attribute & Methoden in einem Objekt zusammenfassen
+	- Internen Aufbau nicht nach außen zeigen
+	- Methoden werden über Botschaften mit klar definierten Schnittstellen
+	  gestartet
+	- Interne Änderungen dringen nicht nach außen
+- Vererbung
+	- Oberklasse (Super-, Eltern-, Basis-, vererbende Klasse)
+	- Unterklasse (Sub-, Kinder-, abgeleitete, erbende Klasse) erbt alle 
+	Methoden und Attribute
+		- ruft zuerst Konstruktor der Superklasse auf
+		- darf die Klasse ergänzen
+		- ändert diese unter Umständen
+	- Vorteile:
+		- Methoden müssen nicht in allen Klassen einzeln erstellt werden
+		- Attribute (und deren Werte) werden nur einmal benötigt
+		- Leicht erweiterbar
+- Polymorphie
+	- Großer Pluspunkt bei OOP
+	- Bedeutung: Vielgesichtigkeit
+	- Klasse kann je nach Oberklasse verschieden genutzt werden
+	- Methoden können kontextabhängig verwendet werden
+		-> fahrzeugFahren()->PKW, Schiff, Roller, Fahrrad
+	- In Java über Interfaces zu realisieren
+
+### Abstraktion
+- umgeht die Komplexität der realen Umwelt
+- Ziel: optimales Modell mit
+	- Beiehungen
+	- Abhängigkeiten
+	- Verhalten
+
+### Übung
+- Erklären Sie, wozu man eine Klasse benötigt
+	-> um Dinge der realen Welt in Software abzubilden
+- Erklären Sie den Begriff Attribut
+	-> Eigenschaft einer Klasse
+- Schreiben Sie in Kurzschreibweise: "Jens hat ein Handy mit hellblauer
+  Schutzhülle" 
+  -> jens.handy.schutzhülle.farbe = hellblau
+  -> klein schreiben, da Jens ein Objekt der Klasse ist, und nicht die 
+  Klasse selbst (das wäre Person)
+  -> Kurzschreibweise = Punktschreibweise = Punktnotation
+- Nennen Sie drei Grundprinzipien der OOP und erläutern Sie eins
+	-> Kapselung, Vererbung, Polymorphie
+	-> Kapselung: siehe oben
+- Schreiben Sie in Punktnotation eine CPU-Methode
+	-> cpu.berechnen()
+
+### Übung
+- Sportler.knie.beugen()

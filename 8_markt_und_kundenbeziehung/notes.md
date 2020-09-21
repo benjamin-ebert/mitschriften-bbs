@@ -17,7 +17,6 @@ Gut bildet
 - Verkäufermarkt -> weniger Anbieter, Verkäufer betimmen den Preis (DDR)
 
 ## Rechtsnormen
-
 - Recht = Regelung der rechtlichen Beziehung des Menschen durch Gebote und Verbote
 (System von Regeln) -> Ziel: Gerechtigkeit
 - Rechtsquellen
@@ -34,15 +33,15 @@ Gut bildet
 		  Gemeinderat)
 - Rechtsnormen
 	- objektives Recht -> Gesamtheit aller Rechtsnormen in einem Staat
-	- subjektives Recht -> regelt die Ansprüche des Einzelnen, die sich aus dem
-	  objektiven Recht herleiten lassen
+	- subjektives Recht -> regelt die Ansprüche des Einzelnen, die sich 
+	aus dem objektiven Recht herleiten lassen
 	- Privatrecht -> regelt private Rechtsbeziehungen einzelner Personen
 	  (Gleichberechtigung)
-	- öffentliches Recht -> regelt rechtliche Beziehungen durch übergeordnete
-	  Instanz, zw. Bürger und Staat, bzw. zw. einzelnen staatl. Organen
+	- öffentliches Recht -> regelt rechtliche Beziehungen durch 
+	übergeordnete Instanz, zw. Bürger und Staat, bzw. zw. einzelnen 
+	staatl. Organen
 
 ## Rechtsfähigkeit
-
 = Fähigkeit einer Person, Träger von Rechten und Pflichten zu sein
 - Rechtssubjekte: im Rechtsverkehr handelnde Peronen
 - Natürliche Personen
@@ -54,15 +53,14 @@ Gut bildet
 	- Eintragung in öffentliches Register
 	- Löschung der Eintragung
 - Juristische Person des öffentlichen Rechts
-	- Gebietskörperschaften (Bund, Länder, Gemeinde), Sozialversicherungsträger,
-	  IHK, Rundfunkanstalt
+	- Gebietskörperschaften (Bund, Länder, Gemeinde)
+	Sozialversicherungsträger, IHK, Rundfunkanstalt
 	- Staatliche Verleihung oer Gesetz, Verordnung, Beschluss
 	- Auflösung
 - KG und OHG sind keine juristischen Personen im engeren Sinne, da
   Personengesellschaften von natürlichen Personen gesteuert werden
 
 ## Geschäftsfähigkeit
-
 = Fähigkeit Rechtsgeschäfte selbstständig und voll wirksam vornehmen zu können
 - Voraussetzung: Willenserklärung
 - Geschäftsunfähigkeit
@@ -78,8 +76,8 @@ Gut bildet
 - Sonderfälle
 	- Geschäfte, die mit Taschengeld getätigt werden
 	-> gültig, da TG zur freien Verfügung gestellt
-	- Geschäfte, die im Rahmen eines erlaubten Arbeitsverhältnisses durchgeführt
-	  werden
+	- Geschäfte, die im Rahmen eines erlaubten Arbeitsverhältnisses 
+	durchgeführt werden
 	- Geschäfte, die keinen rechtlichen Vorteil bringen
 	- Geschäfte, die bei erlaubter Führung eines selbstständigen
 	  Geschfäftsbetriebes durchgeführt werden
@@ -99,3 +97,37 @@ Sache
 	  WE = Annahme
 	- einseitig verpflichtend: ohne Gegeleistung -> Schenkung, Bürgschaft
 	- mehrseitig verpflichtend: Leistung und Gegenleistung -> Kaufvertrag
+
+## Güter
+- Arten:
+	- Verbrauchs- / Gebrauchsgüter
+	- Konsum- / Produktionsgüter
+	- materielle / immaterielle G.
+	- Komplementär- / Substitutionsgüter
+- Güter beschaffen
+	- Beschaffung ist betriebliche Grundfunktion
+	- umfasst alle Tätigkeiten, die einem Unternehmen benötigte aber nicht
+	  selbst erstellte Produktionsfaktoren verfügbar machen sollen
+	- Beschaffungskanäle
+		- Hersteller (direkte Beschaffung)
+		- Händler (indirekte B.)
+			- Einzelhändler
+			- Großhändler
+		- Handelsreisender (Angestellter im Unternehmen)
+		- Handelsvermittler (selbstständiger Kaufmann)
+	- Beschaffungsstrategien
+		- Fallweise B. / Einzelb. = Material wird bestellt, wenn es benötigt
+		  wird
+		- Vorratsb. = Bestellung auf Masse, Einlagerung
+		- Fertigungssynchrone B. / Just-in-Time-Verfahren = Lieferung wenn
+		  benötigt, auf Grundlage eines Rahmenvertrags
+		- Make-or-Buy-Entscheidung = Eigenfertigung oder Fremdbezug /
+		  Outsourcing, abhängig von Beschaffungsmarkt, eigenen Kapazitäten,
+		  Kosten
+- Märkte
+	- Beschaffungsmärkte => Produktionsgüter
+		- Roh-, Hilfs-, Betriebsstoffe
+		- fremdbezogene Güter
+		- Halb- und Fertigprodukte
+	- Absatzmärkte => Konsumgüter
+		- Produktionsfaktoren (auch Arbeit)

@@ -2,7 +2,9 @@
 
 ### Tests
 Mo 21.09.20 Test LF8 - Rechtsnormen, Rechtsfähigkeit, Geschäftsfähigkeit
-Do			Test LF9 - Funktionsweise Internet, Topologien, geografische
+Di 22.09.20 Test LF6 - OOP
+Di 22.09.20 Test LF7 ?
+Do 24.09.20 Test LF9 - Funktionsweise Internet, Topologien, geografische
 Ausdehnung von Netzen
 
 ### Zugang für Downloads / Afgaben etc.
