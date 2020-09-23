@@ -288,6 +288,28 @@ festgesetzter Entlohnung haben = Arbeiter, Angestellte, Studenten, Auszubildende
 
 ### Krankenversicherung
 - Träger: Krankenkassen (AOK, Barmer, DAK, TK...)
-- Beiträge
-	- Arbeitgeber: 50% vom Gesamtbeitrag
-	- Arbeitnehmer: 50% vom Geseamtbeitrag
+- Beiträge: 50% vom Gesamtbeitrag Arbeitgeber, 50% Arbeitnehmer
+- Leistungen
+	- Krankenhausleistungen
+	- Lohnersatzleistungen (Krankengeld)
+	- Medikamente
+	- Schwangerschaftsvorsorge, Geburt
+	- Hebamme
+	- Krankentransport
+	- Krebsvorsorge
+	- Zahnarztbesuch
+	- Zahnbehandlung
+	- Augenarzt / -OP
+	- Rehabilitation
+	- Gesundheitsvorsorge / -aufklärung
+
+### Unfallversicherung
+- Träger: Berufsgenossenschaften
+- Beiträge: 100% Arbeitgeber
+- Leistungen
+	- Wegeunfälle
+	- Arbeitsunfälle
+	- Sportunfälle
+	- Unfälle auf Dienstreisen
+	- Unfälle bei Betriebsveranstaltungen (Weihnachtsfeier etc.)
+	- Pausen nur wenn sie als Arbeitszeit zählen (Mittagspause idR nicht)

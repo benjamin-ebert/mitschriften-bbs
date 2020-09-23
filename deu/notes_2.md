@@ -16,3 +16,28 @@ Gegenargumentation
   umzugehen lernen
 - Schule ist elementar für die Entwicklung sozialer Kompetenzen, ihre Kinder
   haben den größeren Nachteil, wenn sie das nicht mitbekommen
+
+### Übung 23.09.20
+LB.S.33
+2.a)
+A:
+- These: unhöflichem Kunden die Meinung sagen
+- Argument: weil man sonst keinen emotionalen Ausgleich bekommt und 
+nette Kunden womöglich schlecht behandelt
+- Beleg: Wie es in den Wald ruft, so schallt es heraus
+- Beispiel: Freundin hat neulich Freund ihres Chefs unpassende Hose verkauft
+B:
+- These: Kunde muss immer zufrieden sein
+- Argument: Sonst schlechtes Word of Mouth und Kundenverlust
+- Beleg: Umfragen zeigen das
+- Beispiel: Heute Morgen meinte Kundin, dass sie erst auf Empfehlung kam
+C:
+- These: Juniorchef hat sich nicht durchgesetzt
+- Argument (Behauptung): Mitarbeiter vertrauen ihm nicht
+- Beleg:
+- Beispiel (Behauptung): Schüler vertrauen alten Lehrern eher als jungen
+D:
+- These: Juniorchef ist trotzdem cool
+- Argument: junge Leute sind oft innovativer
+- Beleg: 
+- Beispiel: Juniochef hat letzte Woche mit neuer Idee Kunden begeitert
