@@ -160,3 +160,86 @@
 
 ### Übung
 - Sportler.knie.beugen()
+
+### Klassendiagramm
+- Übersicht der verwendeten Klassen und deren Beziehungen
+- Nennung wichtiger Schnittstellen
+- Zur automatisierten Erstellung der Klassen und Methoden
+- Bestandteile
+	- Klassenname und Nutzung
+	- Attribute
+	- Methoden
+	- Beziehung zwischen den Klassen
+
+### Darstellung der Einzelklasse (wird schrittweise ergänzt)
+- Klassenname (Bezeichner = Singular)
+- Attribute
+	- Doppelpunkt nach Attributbezeichner
+	- Einfache Datentypen klein schreiben
+	- Klassentypen groß schreiben -> Bsp: farbe:Color 
+- Methoden
+	- mit Klammern für eventuelle Parameter
+	- mit Rückgabetyp -> Bsp: verschieben():Point 
+	(an welchem Point ist Stuhl nach der Aktion)
+	- ohne Rückgabetyp -> Bsp: hoeheVerstsllen():void
+	- Konstruktoren haben keinen Rückgabetyp: Stuhl()
+- Parameter (für Methoden)
+	- Parameter sind Attribute, werden genau so behandelt
+	- Stuhl um x cm nach rechts und y cm nach links verschieben wäre also:
+	verschieben(x:int, y:int):Point
+- Bsp:
+	- Stuhl
+	- drehbar:bool
+	  farbe:Color
+	- hoeheVerstellen():void
+	  verschieben(x:int, y:int):Point
+	|--------------------------------------|
+	| Stuhl                                |
+	|--------------------------------------|
+	| drehbar: bool						   |
+	| farbe: Color						   |
+	|--------------------------------------|
+	| hoeheVerstellen(): void              |
+	| verschieben(x: int, y: int): Point   |
+	|--------------------------------------|
+
+### Übung Turmuhrklasse
+- Erstellen Sie eine Klasse mit je zwei Einträgen für eine Kirchturmuhr
+	|--------------------------------------|
+	| Kirchturmuhr						   |
+	|--------------------------------------|
+	| hoehe: int						   |
+	| zeit: Time						   |
+	|--------------------------------------|
+	| makeNoise(): void					   |
+	| getTime(minutes: int, hours: int): Time   |
+	|--------------------------------------|
+ 
+### Klassensichtbarkeit
+- Begriff sagt aus, wer auf die jeweilige Methode / das Attribut zugreifen
+  kann
+	- Alle -> Sichtbarkeitstyp public +
+	- Niemand -> private -
+	- Kinderklassen -> protected #
+	- Klassen am gleichen Speicherort -> package ~ oder kein Symbol (Java)
+
+### Übung Schreibblockklasse
+- Erstellen Sie ein Klassendiagramm für Ihren Schreibblock
+- 	|--------------------------------------|
+	| Schreibblock						   |
+	|--------------------------------------|
+	| + dicke: int						   |
+	| - anzahlBlaetter: int				   |
+	|--------------------------------------|
+	| # umblaettern(): void				   |
+	| ~ blattAusreissen(anzahl: int): void |
+	| ~ getAnzahlBlaetter(): int		   |
+	| ~ getCompany(): string		       |
+	|--------------------------------------|
+
+### Generalisierung
+- Wichtigster Grund für Klasse ist die Vererbung
+- Alle Attribute & Methoden werden vererbt
+- Darstellung
+	- Generalisierungspfeil (ein Strich mit Dreieck!)
+	- zeigt von abgeleiteter Klasse zur Basisklasse

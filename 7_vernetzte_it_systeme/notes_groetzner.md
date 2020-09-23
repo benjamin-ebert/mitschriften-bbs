@@ -81,10 +81,58 @@
 4. Rechtsverbindliches Angebot
 
 ### Zweck Kundengespräche
+- um welchen Kunden handelt es sich, Neu/Bestand
+- soll Akquise durchgeführt werden
+- soll Geschäftsbeziehung aufgefrischt werden
+- stelle ich neue Produkte vor
+- hat mich Kunde zu Gespräch bestellt
+
 - Ermittlung Kundenwünsche
 - Ermittlung Problemstellungen
 - Darstellen von Lösungsmöglichkeiten
 - Einweisen in Lösungen
 
 ### Vorbereitung Kundengespräche
-- 
+- Umgebung / Infrastruktur / techn. Ausstattung des Kunden klären
+- Vorkenntnisse des Kunden klären
+- Gesprächsstrategie wählen
+- mögliche Entscheidungshilfen parat haben (Werbung für mich selbst)
+- Zeitmanagement
+- Verhältnis Aufwand / Nutzen (potentieller Auftrag oder nur Info)
+- Hilfs- und Demonstrationsmittel dabei haben
+
+### Mind-Map zur Planung einer Vernetzung
+- Hardwareentlastung
+- Gebäudesubstanz
+- Datenschutz
+- Softwarenutzung
+- Kosten
+	- Investitionsschutz
+	- Wartung
+	- Schulung
+- Betrieb
+	- Organisation
+	- Personaleinsatz
+
+### Investitionsschutz
+- abschätzen wie lange die Neuanschaffung die Anforderungen erfüllen kann
+  und innerhalb welchen Zeitraums eine Neuanschaffung / Nachbesserung /
+  Aufrüstung nötig wird
+- Kosten entsprechend planen
+
+### Schulung
+- berücksichtigen in welchem Umfang Mitarbeiter geschult werden müssen
+- ggf. neue Mitarbeiter mit benötigten Skills einstellen
+- Schulungsmaterial erstellen, ggf. nach Kauf übergeben
+- Kosten entsprechend planen
+
+### Betriebsorganisation
+- Einführung von Netzwerklösungen kann Veränderung der
+  Betriebsorganisation bewirken
+- muss rechtzeitig mit Betriebs-/Personalrat besprochen werden
+- Übergangslösungen müssen stabilen Ablauf des Betriebsprozesse
+  gewährleisten
+
+### Veränderung der Kostenstrukturen
+- optimierte Betriebsabläufe und Kosteneinsparungen beabsichtigt
+- entstehende Neukosten (Wartung, Administration etc.) berücksichtigen
