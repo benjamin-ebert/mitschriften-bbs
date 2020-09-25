@@ -66,7 +66,6 @@ anbieten.
 		- Ausfall des zentralen Kopplungsgeräts legt gesamtes System lahm
 		- relativ komplizierte Verkabelung und Erweiterung
 - Extended Star
-	- 
 	- Vorteile
 		- Netze können strukturiert angelegt und erweitert werden
 		- Beim Ausfall eines Verteilers höherer Ebene existieren Verbindungen
@@ -133,3 +132,16 @@ anbieten.
 	  niedriegerem Brechungsindex und weiteren Schutzschichten aus Kunststoff
 	- höhere Übertragungsraten und Reichweiten als Kupferkabel
 	- Einsatz in Nachrichtentechnik, Lasertechnik / Medizin, Messtechnik
+
+### Simplex, Halbduplex, Vollduplex
+- Simplex
+	- Nachrichtenfluss nur in eine Richtung = unidirektional
+	- Nachrichten nur vom Sender zum Empfänger
+	- Bsp: Radio
+- Halbduplex
+	- Nachrichtenfluss bidirektional aber nur einer gleichzeitig
+	- ein Übertragungskanal
+- Vollduplex
+	- Nachrichtenfluss bidirektional, beide können gleichzeitig senden und
+	  empfangen
+	- mindestens zwei Übertragungskanäle

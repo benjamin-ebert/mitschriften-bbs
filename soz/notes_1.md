@@ -313,3 +313,15 @@ festgesetzter Entlohnung haben = Arbeiter, Angestellte, Studenten, Auszubildende
 	- Unfälle auf Dienstreisen
 	- Unfälle bei Betriebsveranstaltungen (Weihnachtsfeier etc.)
 	- Pausen nur wenn sie als Arbeitszeit zählen (Mittagspause idR nicht)
+
+### Rentenversicherung
+- Träger: Landesversicherungsanstalten
+- Beiträge: 50% / 50%
+- Leistungen
+	- Altersrente (ab 67, oder 65 wenn 45 Jahre eingezahlt)
+	- Witwen- / Witwerrente
+	- Halb- / Vollwaisenrente
+	- Erwerbsunfähigkeitsrente
+	- Berufsunfähigkeitsrente
+	- Kriegsopferrente
+	- Rente aus Sonderversicherungssystemen
