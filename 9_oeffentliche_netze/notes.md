@@ -145,3 +145,22 @@ anbieten.
 	- Nachrichtenfluss bidirektional, beide können gleichzeitig senden und
 	  empfangen
 	- mindestens zwei Übertragungskanäle
+
+### Übertragungsmethoden
+- Multiplexing = zeitliche, räumliche, frequenz- oder wellenlängenmäßige
+  Aufteilung des Übertragungsmediums in mehrere Kanäle
+- Zeitmultiplexverfahren (TDM - Time Division Multiplex)
+	- STM (Synchroner Transfer Mode = synchrones Zeitmultiplex)
+		- arbeitet mit fest reservierten Zeitschlitzen
+		- Kanäle werden im gleichen Zeitabschnitten permanent durchschaltet, egal ob da Daten
+		fließen oder nicht
+		- führt zu ungenutzter Bandbreite auf leeren Kanälen
+	- ATM (Asynchroner Transfer Mode = asynchrones Zeitmultiplex)
+		- arbeitet nicht mit fest reservierten Zeitschlitzen
+		- Kanäle werden nach Bedarf geschaltet, je nachdem ob Daten fließen
+		- Bandbreite immer komplett genutzt
+- weitere Multiplexverfahren:
+	- FDM = Frequency Division Multiplexing = Frequenzmultiplexing
+	- WDM = Wave Division Multiplexing = Wellenlängenmultiplexing
+	- SDM = Space Division Multiplexing = Raummultiplexing
+	- usw.

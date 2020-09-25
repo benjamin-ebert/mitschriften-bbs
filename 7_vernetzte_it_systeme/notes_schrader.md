@@ -36,3 +36,12 @@
 		- besteht aus Herstellerkennung (3 Bytes) und Seriennummer (3 Bytes)
 		- Angabe meist hexadezimal zB. D0-50-99-25-A8-00
 		- Anzeige Windows ipconfig /all, Linux ifconfig
+- Medienkonverter
+	- Umsetzung verschiedener Signalformen, zB. elektrisch (Kupferkabel) in
+	  optisch (Glasfaserkabel)
+- Repeater 
+	- arbeitet auf OSI Schicht 1
+	- Signalverstärker / -aufbereiter
+	- koppelt mehrere Segmente
+- Hub
+	= Multiport Repeater
